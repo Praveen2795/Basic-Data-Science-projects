@@ -3,10 +3,11 @@
 This repository will contain the fundamental projects for learning applied Data Science with Machine Learning algorithms.
 
 ## Table of Contents:
+- Car price prediction
+- Diabetes prediction
 - Employee retention prediction
 - House price prediction
 - Salary prediction
-
 
 The above data analysis projects will contain it's own dataset in the respective folders.
 
