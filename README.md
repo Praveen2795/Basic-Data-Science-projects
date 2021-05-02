@@ -24,4 +24,5 @@ The above data analysis projects will contain it's own dataset in the respective
 
 - <a href="https://www.kaggle.com/">Kaggle</a> for datasets 
 - <a href="https://www.youtube.com/">YouTube</a> for tutorials
+- <a href="https://www.pieriandata.com/">Pierian Data</a> for datasets and tutorials
 
