@@ -15,10 +15,10 @@ The three classes in the Iris dataset:
 - Iris-virginica (n=50)
 - The four features of the Iris dataset:
 
-Sepal length in cm
-Sepal width in cm
-Petal length in cm
-Petal width in cm
+- Sepal length in cm
+- Sepal width in cm
+- Petal length in cm
+- Petal width in cm
 
 ## Libraries used:
 - <a href="https://pandas.pydata.org/">Pandas</a>
@@ -27,10 +27,6 @@ Petal width in cm
 - <a href="https://seaborn.pydata.org/">Seaborn</a>
 - <a href="https://scikit-learn.org/stable/">Scikit-learn</a>
 
-## Credits:
-
-- <a href="https://www.kaggle.com/">Kaggle</a> for datasets 
+## 
 - <a href="https://www.youtube.com/">YouTube</a> for tutorials
 - <a href="https://www.pieriandata.com/">Pierian Data</a> for datasets and tutorials
-
-
