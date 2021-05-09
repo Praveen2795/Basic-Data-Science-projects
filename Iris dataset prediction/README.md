@@ -27,6 +27,6 @@ The three classes in the Iris dataset:
 - <a href="https://seaborn.pydata.org/">Seaborn</a>
 - <a href="https://scikit-learn.org/stable/">Scikit-learn</a>
 
-## 
+## Credits:
 - <a href="https://www.youtube.com/">YouTube</a> for tutorials
 - <a href="https://www.pieriandata.com/">Pierian Data</a> for datasets and tutorials
