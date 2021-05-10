@@ -1,12 +1,12 @@
 # Clustering Universities into 2 groups with K Means Clustering
 
-For this project we will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
+## Motivation:
+This is an attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
 
-It is very important to note, we actually have the labels for this data set, but we will NOT use them for the KMeans clustering algorithm, since that is an unsupervised learning algorithm.
+## Note:
+It is very important to note, we actually have the labels for this data set, but we will NOT use them for the KMeans clustering algorithm, since that is an unsupervised learning algorithm. When using the Kmeans algorithm under normal circumstances, it is because you don't have labels. In this case we will use the labels to try to get an idea of how well the algorithm performed, but you won't usually do this for Kmeans, so the classification report and confusion matrix at the end of this project, don't truly make sense in a real world setting.
 
-When using the Kmeans algorithm under normal circumstances, it is because you don't have labels. In this case we will use the labels to try to get an idea of how well the algorithm performed, but you won't usually do this for Kmeans, so the classification report and confusion matrix at the end of this project, don't truly make sense in a real world setting!.
-
-## The Data
+## The Data:
 
 We will use a data frame with 777 observations on the following 18 variables.
 * Private: A factor with levels No and Yes indicating private or public university
@@ -28,6 +28,6 @@ We will use a data frame with 777 observations on the following 18 variables.
 * Expend: Instructional expenditure per student
 * Grad.Rate: Graduation rate
 
-## Evaluation
+## Evaluation:
 
 There is no perfect way to evaluate clustering if you don't have the labels, however since this is just an exercise, we do have the labels, so we take advantage of this to evaluate our clusters, keep in mind, you usually won't have this luxury in the real world.
